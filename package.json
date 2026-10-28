@@ -1,0 +1,26 @@
+{
+  "name": "bookstack-qa-test-suite",
+  "version": "1.0.0",
+  "description": "Comprehensive Quality Assurance portfolio project for the [BookStack](https://demo.bookstackapp.com/) platform. This project encompasses manual functional validation, boundary testing, structured defect documentation, and an automated regression test suite using **Playwright (JavaScript)** with the **Page Object Model (POM)**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahRFA/bookstack-qa-test-suite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AbdullahRFA/bookstack-qa-test-suite/issues"
+  },
+  "homepage": "https://github.com/AbdullahRFA/bookstack-qa-test-suite#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "allure-commandline": "^2.46.1",
+    "allure-playwright": "^3.14.0"
+  }
+}

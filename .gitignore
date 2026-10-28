@@ -1,0 +1,14 @@
+node_modules/
+.env
+
+# Playwright & Allure reports
+test-results/
+playwright-report/
+allure-results/
+allure-report/
+
+# OS & IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
