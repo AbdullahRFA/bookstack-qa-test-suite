@@ -114,8 +114,6 @@ npx allure open allure-report
 
 ```bash
 
-## 📁 Framework Architecture & Project Structure
-
 ```text
 bookstack-qa-test-suite/
 │
